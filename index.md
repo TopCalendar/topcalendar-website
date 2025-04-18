@@ -7,7 +7,7 @@ lang: en
 title: ""
 ---
 
-## Top Calendar 2.0
+## Top Calendar 4.0
 
 Top Calendar is committed to being the best companion for your macOS system calendar. It provides you with a beautiful, clean calendar view that combines with your schedule and is conveniently displayed in the system menu bar, allowing you to see your meetings, appointments, holidays, and all schedules at a glance, giving you full control over your time.
 
@@ -31,4 +31,5 @@ Main features:
     <img src="/assets/images/Screenshot-EN-2.png" alt="Screenshot - 2">
     <img src="/assets/images/Screenshot-EN-3.png" alt="Screenshot - 3">
     <img src="/assets/images/Screenshot-EN-4.png" alt="Screenshot - 4">
+    <img src="/assets/images/Screenshot-EN-5.png" alt="Screenshot - 5">
 </div>
